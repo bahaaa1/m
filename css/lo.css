@@ -1,0 +1,29 @@
+.log{
+  
+     background-color:rgb(239, 8, 8) ;
+     width: 300px;
+     border-radius: 50%;
+     
+
+
+
+}
+
+input{
+
+    margin: 20px;
+}
+
+label{
+
+    font-size: 20px;
+}
+
+form{
+    border: 2px solid rgb(119, 47, 47);
+    width: 300px;
+    text-align: center;
+    position: relative;
+     left: 450px;
+
+}
